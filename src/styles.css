@@ -11,15 +11,4 @@ h1 {
   font-size: 250%;
 }
 
-.mainPanel{
-  height: 100%;
-  width: 100%;
-  background-color: white;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
 
-.mainPanel img{
-  width:24%;
-}
